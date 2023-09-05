@@ -1,0 +1,66 @@
+
+body{
+    margin: 0;
+    background-color: rgb(189, 249, 254);
+}
+
+.subtitulo{
+    color: rgb(255, 0, 132);
+}
+
+#titulo {
+    color: rgb(255, 0, 132);    
+}
+
+header{
+    display: flex;
+    justify-content:center ;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 0, 132);
+    padding: 3rem 10rem;
+}
+
+#ico{
+    text-align: center;
+    margin: 1rem 0;
+    border-radius: 0.5rem;
+    padding: 0.45rem;
+}
+
+#fes{
+    text-align: center;
+    margin: 1rem 0;
+    border-radius: 0.5rem;
+    padding: 0.45rem;
+}
+
+header h1{
+    font-size: 4rem;
+    text-align: center;
+    font-family: 'Lilita One', cursive;
+}
+
+#creador {
+    width: 600px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.contenedor_1, .contenedor_2, .contenedor_3{
+    width: 600px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+ footer{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 0, 132);
+    padding: 3rem 2rem;
+ }
+
+ article{
+    background-color: rgb(178, 190, 197);
+    margin: 1rem 0;
+    border-radius: 0.5rem;
+    padding: 0.45rem;
+ }
